@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 40px;
+}
+.hello{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.hellow1{
+    color: tomato;
+    margin-top: -30px;
+}
+.hello img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 15px;
+    background-image: linear-gradient(45deg,lightsalmon, tomato );
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 700;
+}
+.toptwo{
+    margin-top: 50px;
+}
+.clear{
+    clear: both;
+}
+.threesec{
+    background-color: #cccccc40;
+    overflow: hidden;
+    padding: 100px 10px;
+}
+.main h3{
+    text-align: center;
+}
+.maininner{
+    width: 100%;
+}
+.maininnerone img{
+    width: 95%;
+    padding: 9px 0px;
+}
+.maininnerone {
+    float: left;
+    margin: 1%;
+    width: 30%;
+    text-align: center;
+    box-shadow: 2px 0px 11px 2px #2222;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 15px 0px;
+}
+.maintext{
+    text-align: left;
+    padding-left: 20px;
+
+}
+.reviewone{
+    text-align: center;
+    padding: 40px 10px;
+    overflow: hidden;
+    background-color: #ddd;
+}
+.link-button-one{
+    text-decoration: none;
+    font-size: 15px;
+    background-image: linear-gradient(45deg,lightsalmon, tomato );
+    border-radius: 10px;
+    padding: 7px 10px;
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+.butt{
+    text-align: center;
+}
+.footerone{
+    font-size: 15px;
+    color: rgb(48 23 23 / 65%);
+    font-weight: 900;
+}
+.footertwo{
+    font-size: 30px;
+    color: rgb(34, 33, 33);
+    margin-top: -10px;
+}
+.footerthree{
+    width: 4%;
+}
